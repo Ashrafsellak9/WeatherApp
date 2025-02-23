@@ -42,6 +42,9 @@ If an invalid city name is entered, an error message will be displayed.
 Screenshots
 Main UI:
 
+![Weather App Screenshot](Desktop/test1.jpeg)
+
+
 Example:
 Enter a valid city name like "London":
 Shows temperature, weather description, humidity, wind speed, and an icon.
