@@ -42,7 +42,10 @@ If an invalid city name is entered, an error message will be displayed.
 Screenshots
 Main UI:
 
-![Weather App Screenshot](Desktop/test1.jpeg)
+![Weather App Screenshot](Screenshot/test1.jpeg)
+![Weather App Screenshot](Screenshot/test2.jpeg)
+![Weather App Screenshot](Screenshot/test3.jpeg)
+
 
 
 Example:
